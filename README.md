@@ -25,3 +25,5 @@ including the use and creation of libraries and Makefiles.
 All projects are submitted via a remote git repository, which demands students to
 be at ease with such a system.
 
+![Final Exam](https://pbs.twimg.com/media/FsN68u3XwAI5Qjy?format=jpg&name=4096x4096)
+
