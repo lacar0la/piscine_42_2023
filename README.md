@@ -16,7 +16,8 @@ This repository have the projects that I made at 42's Piscine. A 26-day (intensi
 ## Shell
 The first days of the bootcamp are dedicated to learning basic to intermediate shell commands to seamlessly navigate through the terminal. 
 
-## C_language
+## C language
+
 The primary language learned at the 42's Piscine is C: dealing with variables,
 pointers, memory allocation, macros, as well as creating functions and programs,
 including the use and creation of libraries and Makefiles.
