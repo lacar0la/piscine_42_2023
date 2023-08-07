@@ -1,9 +1,14 @@
 # 42PISCINE
 This repository have the projects that I made at 42's Piscine. A 26-day (intensive) C bootcamp - from 03/March/2023 to 26/March/2023 in a presential 24/7 open campus.
 
+
+
 ## 42 Cursus
-42 Cursus is a global education program with an innovative methodology based on the student's view: without teachers, without schedule, without classrooms only mutual aid where students learn from their fellows (peer to peer). 42 program takes a project-based approach to progress, designed to develop technical and people skills that match the expectations of the labor market.
-![42 innovative campus](https://pbs.twimg.com/media/Fw01QxVXwAEo_Z7?format=jpg&name=large)
+42 Cursus is a global education program with an innovative methodology based on the student's view: without teachers, without schedule, without classrooms only mutual aid where students learn from their fellows (peer to peer). 
+
+42 program takes a project-based approach to progress, designed to develop technical and people skills that match the expectations of the labor market.
+
+<img src ="https://pbs.twimg.com/media/Fw01QxVXwAEo_Z7?format=jpg&name=large" width="300" height="300" ></p>
 
 **The piscine is the first step of the program because is a part of the selection process, the other part of this is the frustration management and the adaptation hability and those comes from the student**
 
